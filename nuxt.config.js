@@ -37,5 +37,8 @@ module.exports = {
         })
       }
     }
+  },
+  router: {
+    base: '/nuxt-todo-dist/'
   }
 }
